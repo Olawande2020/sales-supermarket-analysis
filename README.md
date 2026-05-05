@@ -6,7 +6,7 @@ A dual-tool data analysis project combining Python (Jupyter Notebook) for data p
 
 
 ## Key Metrics
-- MetricValueTotal Revenue128.89K
+- Total Revenue128.89K
 - Total Profit146.45K
 - Total Quantity Sold14.29K
 - Overall Profit Margin113.6%
